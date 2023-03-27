@@ -1,1 +1,1 @@
-# Generative-Adversarial-Network-for-Generating--Handwritten-Digits-MNIST-Dataset
+# Generative-Adversarial-Network-for-Generating--Handwritten-Digits-MNIST-Dataset-PyTorch
